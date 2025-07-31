@@ -776,7 +776,7 @@ local CoreGui = getService("CoreGui")
 -- Interface Management
 
 
-local Rayfield = useStudio and script.Parent:FindFirstChild('Rayfield') or game:GetObjects("rbxassetid://10804731440")[1]
+local Rayfield = useStudio and script.Parent:FindFirstChild('Rayfield') or game:GetObjects("rbxassetid://106031439284017")[1]
 local buildAttempts = 0
 local correctBuild = false
 local warned
